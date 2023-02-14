@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabOrderSample", "TabOrderSample\TabOrderSample.csproj", "{9191A42A-EC68-47D1-A110-DD48A077037C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9191A42A-EC68-47D1-A110-DD48A077037C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9191A42A-EC68-47D1-A110-DD48A077037C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9191A42A-EC68-47D1-A110-DD48A077037C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9191A42A-EC68-47D1-A110-DD48A077037C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875BD9DA-FDFD-4C92-9711-D16806FF2FD3}
+	EndGlobalSection
+EndGlobal
