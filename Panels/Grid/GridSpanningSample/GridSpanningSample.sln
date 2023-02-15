@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSpanningSample", "GridSpanningSample\GridSpanningSample.csproj", "{5C0B3291-2529-434F-8652-651B86B3E69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0B3291-2529-434F-8652-651B86B3E69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0B3291-2529-434F-8652-651B86B3E69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0B3291-2529-434F-8652-651B86B3E69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0B3291-2529-434F-8652-651B86B3E69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44430664-7F43-4994-9A55-09434BDE8D44}
+	EndGlobalSection
+EndGlobal
